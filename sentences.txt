@@ -1,0 +1,8 @@
+a man likes pizza.
+the man eats tacos.
+pizza tastes good.
+tacos taste great.
+a man likes tacos.
+the man eats pizza.
+pizza tastes great.
+tacos taste good.
