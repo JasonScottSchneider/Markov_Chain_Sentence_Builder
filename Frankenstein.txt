@@ -3230,11 +3230,11 @@ discourse; I learned and applied the words, _fire, milk, bread,_ and
 _wood._ I learned also the names of the cottagers themselves. The youth
 and his companion had each of them several names, but the old man had only
 one, which was _father._ The girl was called _sister_ or
-_Agatha,_ and the youth _Felix, brother,_ or _son_. I cannot
+_Agatha,_ and the youth _Felix, brother,_ or son. I cannot
 describe the delight I felt when I learned the ideas appropriated to each of
 these sounds and was able to pronounce them. I distinguished several other
-words without being able as yet to understand or apply them, such as _good,
-dearest, unhappy._
+words without being able as yet to understand or apply them, such as good,
+dearest, unhappy.
 
 “I spent the winter in this manner. The gentle manners and beauty of
 the cottagers greatly endeared them to me; when they were unhappy, I
@@ -4028,12 +4028,6 @@ the antelope. But my heart sank within me as with bitter sickness, and
 I refrained. I saw him on the point of repeating his blow, when,
 overcome by pain and anguish, I quitted the cottage, and in the general
 tumult escaped unperceived to my hovel.”
-
-
-
-
-Chapter 16
-
 
 “Cursed, cursed creator! Why did I live? Why, in that instant, did I
 not extinguish the spark of existence which you had so wantonly
@@ -5930,8 +5924,8 @@ deprived.”
 Such were the lessons of my father. But to me the remembrance of the
 threat returned; nor can you wonder that, omnipotent as the fiend had
 yet been in his deeds of blood, I should almost regard him as
-invincible, and that when he had pronounced the words “_I shall be with
-you on your wedding-night_,” I should regard the threatened fate as
+invincible, and that when he had pronounced the words “I shall be with
+you on your wedding-night,” I should regard the threatened fate as
 unavoidable. But death was no evil to me if the loss of Elizabeth were
 balanced with it, and I therefore, with a contented and even cheerful
 countenance, agreed with my father that if my cousin would consent, the
